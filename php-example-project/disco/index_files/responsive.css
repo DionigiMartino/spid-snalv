@@ -1,0 +1,14 @@
+@media only screen and (max-width: 767px) {
+    .italia-it-button-size-xl {
+        margin-left: -20px;
+    } 
+    .it-nav-wrapper {
+        display: none;
+    }
+    .it-header-slim-wrapper .it-header-slim-wrapper-content a.it-opener {
+        font-size: 18px;
+    }
+    .it-header-slim-wrapper {
+        margin-bottom: 20px;
+    }
+  }
